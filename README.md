@@ -6,8 +6,12 @@ Projet d'automatisation de tests pour le site [https://www.saucedemo.com](https:
 ## Structure du projet
 
 ## Installation
+
 1. Installer Node.js >= 18
 2. Installer les dépendances :
+
+```bash
+npm install
 
 ## Exécution des tests
 Pour lancer tous les tests :
